@@ -11,7 +11,7 @@ C++ console software of a simple CRUD program to deal with employee database and
 * [Search For Employees](#search-for-employees)
 * [Update Employees](#update-employees)
 * [Delete Employees](#delete-employees)
-* [Save/Load Database](#save/load-database)
+* [Save/Load Database](#saveload-database)
 
 ## Usage
 
