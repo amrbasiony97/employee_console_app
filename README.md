@@ -1,6 +1,10 @@
 # Employee Console App
 
-C++ console software of a simple CRUD program to deal with employee database and print them with a dynamic columns sized according to existing data.
+C++ console software of a simple CRUD program to deal with employee database and print them with dynamic columns sized according to existing data.
+
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/DBuhjMkmjbc/sddefault.jpg)](https://youtu.be/DBuhjMkmjbc)
 
 ## Table of Contents
 
@@ -15,7 +19,7 @@ C++ console software of a simple CRUD program to deal with employee database and
 
 ## Usage
 
-You can run the program in linux and windows:
+You can run the program in Linux and Windows:
 
 ### Windows
 `./bin/windows/employee_system.exe`
@@ -28,9 +32,9 @@ You can run the program in linux and windows:
 - Add employees
 - Print all employees
 - Search for employees
-- Update existing employess
+- Update existing employees
 - Delete employees
-- Save/Load from database
+- Save/Load from the database
 
 ## Add Employees
 
@@ -44,11 +48,11 @@ Each employee has the following data:
 
 ## Print Employees
 
-Print all employees in the database with a key feature of auto adjusting columns width according to existing data.
+Print all employees in the database with a critical feature of auto-adjusting column width according to existing data.
 
 ## Search For Employees
 
-Search for employees in database using:
+Search for employees in the database using:
 - **Name** with substring searching algorithm and non-case sensitive
 - **Email** with substring searching algorithm and non-case sensitive
 - **Age range**
@@ -67,6 +71,6 @@ Select and delete employees using:
 
 ## Save/Load Database
 
-Database is saved automatically when you close program.
+The database is saved automatically when you close the program.
 *Hint* database will be saved only when you close the program by entering "7" not by clicking the "X" button in the top window.
-Database is saved in a readable txt file in the same direction of the program.
+The database is saved in a readable txt file in the same direction of the program.
